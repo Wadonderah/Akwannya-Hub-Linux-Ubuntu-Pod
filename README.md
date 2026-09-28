@@ -1,2 +1,7 @@
-# Akwannya-Hub-Linux-Ubuntu-Pod
-Akwannya Hub Linux Essentials
+
+# Author
+**Wadondera A. Collins**  
+Linux Fundamental labs  
+Akwannya-Hub
+
+---
