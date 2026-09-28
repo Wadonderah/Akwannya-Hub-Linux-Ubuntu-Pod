@@ -224,5 +224,5 @@ This project is provided for educational and portfolio purposes. It summarizes i
 ## Author
 
 **Wadondera A. Collins**  
-Akwannya Trainee | Cohort 1 
+Akwannya Trainee | Cohort 1   
 Linux
