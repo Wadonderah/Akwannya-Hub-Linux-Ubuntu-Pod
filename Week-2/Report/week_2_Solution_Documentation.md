@@ -138,7 +138,8 @@ linux-fundamentals-assignments/
 
 ### Fig01: Linux Directory Listing
 
-![Fig01 Linux Directory Listing](screenshots/Fig01%20Linux%20Directory%20Listing.png)
+<img width="551" height="282" alt="Fig01-Linux Directory Listing" src="https://github.com/user-attachments/assets/6f7cdb36-477c-411a-8388-d2686967ee5f" />
+
 
 **Screenshot filename:** `Fig01 Linux Directory Listing.png`
 
@@ -153,7 +154,9 @@ linux-fundamentals-assignments/
 
 ### Fig02: System Identity and Command History
 
-![Fig02 System Identity and Command History](screenshots/Fig02%20System%20Identity%20and%20Command%20History.png)
+<img width="591" height="335" alt="Fig02-System Identity and Command History" src="https://github.com/user-attachments/assets/b639f615-ce04-4078-9b9d-9141d275abdf" />
+
+
 
 **Screenshot filename:** `Fig02 System Identity and Command History.png`
 
@@ -168,7 +171,9 @@ linux-fundamentals-assignments/
 
 ### Fig03: Environment Variables and Command Discovery
 
-![Fig03 Environment Variables and Command Discovery](screenshots/Fig03%20Environment%20Variables%20and%20Command%20Discovery.png)
+
+<img width="609" height="343" alt="Fig03-Environment Variables and Command Discovery" src="https://github.com/user-attachments/assets/1b127f85-8130-45bd-a9a6-1d1df3c61ffa" />
+
 
 **Screenshot filename:** `Fig03 Environment Variables and Command Discovery.png`
 
