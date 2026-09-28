@@ -1,3 +1,5 @@
+
+
 # Linux Fundamentals: Open Source, the Command Line and Getting Help
 
 A professional portfolio project demonstrating foundational Linux knowledge, introductory command-line practice, technical self-service, and structured documentation.
@@ -7,7 +9,7 @@ A professional portfolio project demonstrating foundational Linux knowledge, int
 | Field | Detail |
 |---|---|
 | **Author** | Wadondera A. Collins |
-| **Career Focus** | Cloud Security Engineering, Cloud Operations, and DevOps Fundamentals |
+| **Career Focus** | Cloud Security Engineering, Cloud Engineer, and DevOps Fundamentals |
 | **Version** | `v1.1.0` |
 | **Status** | Completed |
 | **Project Type** | Linux fundamentals coursework and terminal practice |
